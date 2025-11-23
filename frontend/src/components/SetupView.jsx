@@ -10,10 +10,6 @@ const SetupView = ({ onStart, loading }) => {
 
         <Title level={3} style={{ marginBottom: '5px' }}>股票技术分析训练器</Title>
 
-        <Text type="secondary" style={{ fontSize: '12px', display: 'block' }}>
-          (Contact me: 刘成龙，WX: LiuChenglong_lcl)
-        </Text>
-
         <div style={{ margin: '40px 0 10px 0', color: '#666' }}>
           <Text>系统将随机抽取一只股票</Text>
           <br />
